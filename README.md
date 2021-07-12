@@ -1,2 +1,2 @@
-# snake_game
-snake game using javascript
+# Snake Game
+Snake Game using HTML/CSS/JavaScript
